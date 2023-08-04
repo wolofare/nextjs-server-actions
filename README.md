@@ -31,7 +31,7 @@ Live preview of Server Actions creating products with an API endpoint.
 
 ![Server Actions](server-actions-add-product.png)
 
-### Resources
+### Resources used to learn about Server Actions
 
 1. [Server Actions](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions)
 2. [NextJS Docs - Data Fetching](https://nextjs.org/learn/)
